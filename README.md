@@ -1,1 +1,2 @@
-# c-programms
+# C-programms
+Random projects in C
