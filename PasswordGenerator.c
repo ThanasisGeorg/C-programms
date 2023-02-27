@@ -42,11 +42,13 @@ void RandomPasswordGenerator(int n){
 
 int main(){
 	int n;
+	
 	do{
 		printf("Give n : ");
 		scanf("%d", &n);
 	}
 	while (n<15);
+	
 	RandomPasswordGenerator(n);
 	printf("\n");
 	
